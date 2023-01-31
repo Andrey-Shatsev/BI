@@ -1,2 +1,2 @@
 # BI
-Business Intelligence Reports
+Business Intelligence Reports. Other visualization.
